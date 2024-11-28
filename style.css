@@ -167,10 +167,11 @@ border-radius: .5rem;
     .card{
         flex-direction: column;
     }
-    h3{
+    /* h3{
         text-align: left;
-    }
+    } */
     .card__box2__SummaryTitleDiv{
         width: 100%;
+        text-align: left;
     }
 }
