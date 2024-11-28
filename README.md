@@ -44,8 +44,8 @@ Active/Focus/Hover State of Button
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/summary-page-using-htmlcss-aDwY8K6VwD](https://www.frontendmentor.io/solutions/summary-page-using-htmlcss-aDwY8K6VwD)
+- Live Site URL: [https://kofi100.github.io/ResultsSummary28Nov2024/](https://kofi100.github.io/ResultsSummary28Nov2024/)
 
 ## My process
 
