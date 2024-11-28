@@ -170,4 +170,7 @@ border-radius: .5rem;
     h3{
         text-align: left;
     }
+    .card__box2__SummaryTitleDiv{
+        width: 100%;
+    }
 }
